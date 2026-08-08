@@ -2,5 +2,8 @@
 
 ## 💻 My Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="./profile/wakatime.svg" alt="WakaTime Stats">
+
+## 📊 Languages Across My GitHub
+
+<img src="./profile/top-langs.svg" alt="Top Languages">
