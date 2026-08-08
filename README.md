@@ -2,8 +2,5 @@
 
 ## 💻 My Coding Activity
 
-
-
-## 📊 Languages Across My GitHub
-
-<img src="./profile/top-langs.svg" alt="Top Languages">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
