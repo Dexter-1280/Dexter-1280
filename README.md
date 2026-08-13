@@ -1,3 +1,27 @@
+# `Aditya Deshmukh` 👨‍💻
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         D E X T E R - 1 2 8 0                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  $ whoami                                                                   │
+│  Aditya Deshmukh                                                             │
+│                                                                              │
+│  $ role                                                                     │
+│  Computer Science & Engineering Student                                      │
+│                                                                              │
+│  $ currently                                                                 │
+│  Learning • Building • Solving                                              │
+│                                                                              │
+│  $ focus                                                                     │
+│  Java • JavaScript • Web Development • DSA                                  │
+│                                                                              │
+│  $ mindset                                                                   │
+│  Code. Learn. Build. Repeat.                                                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
 ## 💻 Languages I Used
 
 ```text
